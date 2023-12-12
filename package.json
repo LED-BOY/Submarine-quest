@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@capacitor/cli": "^5.5.1",
+    "cssnano": "^6.0.1",
+    "postcss": "^8.4.31"
+  },
+  "dependencies": {
+    "@capacitor/android": "^5.5.1",
+    "@capacitor/core": "^5.5.1",
+    "@capacitor/ios": "^5.5.1"
+  }
+}

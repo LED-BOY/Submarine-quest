@@ -1,0 +1,8 @@
+{
+  "appId": "com.SubQst.app",
+  "appName": "SubQst",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
