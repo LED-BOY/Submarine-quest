@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SubQst</string>
+    <string name="title_activity_main">SubQst</string>
+    <string name="package_name">com.SubQst.app</string>
+    <string name="custom_url_scheme">com.SubQst.app</string>
+</resources>
